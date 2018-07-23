@@ -1,5 +1,5 @@
 public class Start{
-	public static void Main(String[] args){
+	public static void main(String[] args){
 		Brandon brandon = new Brandon();
 		Christian christian = new Christian();
 		System.out.println("Brandon and Christian are having a conversation");
