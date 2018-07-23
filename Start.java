@@ -10,6 +10,6 @@ public class Start{
 	}
 
 	public static void speak(String name,String message){
-		System.out.printf("%s: $s",name,message);
+		System.out.printf("%s: %s\n",name,message);
 	}
 }
